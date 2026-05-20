@@ -1,0 +1,11 @@
+/* Seleciona h1 e p, e aplica a cor azul */
+h1,
+p {
+    color: blue;
+}
+
+/* Seleciona o a dentro do p */
+
+p a {
+    color: green;
+}
