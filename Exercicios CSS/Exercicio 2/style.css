@@ -1,0 +1,23 @@
+.codigo {
+    color: blue;
+}
+
+.design {
+    color: red;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+body {
+    text-align: center;
+    margin: 40px auto;
+    max-width: 600px;
+    padding: 0 10px;
+
+    background-color: black;
+    color: white;
+}
+
+
