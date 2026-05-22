@@ -1,0 +1,41 @@
+.box-curso {
+    background-color: #000000;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.destaque {
+    color: #febe01;
+    font-weight: bold;
+}
+
+
+body {
+    font-family: Arial;
+    background-color: #ffffff;
+    color: #ffffff;
+}
+
+.curso {
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+}
+
+.botao-comprar {
+    background-color: #febe01;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 20%;
+ 
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
